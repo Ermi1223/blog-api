@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Debugger files
+.vscode/
+.idea/
+
+# Docker files (optional, if you don't want to ignore them)
+# Dockerfile
+# docker-compose.yml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jest coverage
+coverage/
+
+# Optional: lock files you might not want (but usually you commit these)
+# package-lock.json
+# yarn.lock
